@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My RTC</string>
+    <string name="main_activity">Notifications</string>
+    <string name="refresh">Refresh</string>
+</resources>
